@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\StopWatch\StopWatch\obj\Debug\net8.0-windows\StopWatch.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\StopWatch\StopWatch\obj\Debug\net8.0-windows\StopWatch.Form1.resources
+C:\Users\USER\source\repos\StopWatch\StopWatch\obj\Debug\net8.0-windows\StopWatch.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\StopWatch\StopWatch\obj\Debug\net8.0-windows\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\StopWatch\StopWatch\obj\Debug\net8.0-windows\StopWatch.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StopWatch\StopWatch\obj\Debug\net8.0-windows\StopWatch.AssemblyInfo.cs
+C:\Users\USER\source\repos\StopWatch\StopWatch\obj\Debug\net8.0-windows\StopWatch.csproj.CoreCompileInputs.cache
